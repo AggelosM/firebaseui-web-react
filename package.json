@@ -13,7 +13,7 @@
     "package.json",
     "README.md",
     "StyledFirebaseAuth.d.ts",
-    "StyledFirebaseAuth.js",
+    "dist/StyledFirebaseAuth.js",
     "StyledFirebaseAuth.js.map"
   ],
   "main": "index.js",
